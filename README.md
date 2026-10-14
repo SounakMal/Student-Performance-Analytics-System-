@@ -71,15 +71,3 @@ Run:
 ```bash
 python -m unittest discover -s tests -v
 ```
-
-## GitHub submission
-Create a repository named `student-performance-analytics`, then from this project directory:
-```bash
-git init
-git add .
-git commit -m "Complete student performance analytics project"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/student-performance-analytics.git
-git push -u origin main
-```
-Replace the placeholder URL with your actual repository URL. Verify the repository and submit its URL through the Google Form supplied by EWB Courses. Do not claim submission until the form has actually been submitted.
